@@ -6,3 +6,4 @@
 ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)<br>
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
